@@ -1,0 +1,6 @@
+{
+  "name": "Maya Free",
+  "description": "Your Voice. Your Security. Your AI. Personal AI companion with live voice visualization, AMOLED dark UI, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

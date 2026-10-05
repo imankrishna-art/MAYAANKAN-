@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Maya Free</string>
+    <string name="assistant_ready">Ready</string>
+    <string name="assistant_listening">Listening...</string>
+    <string name="assistant_thinking">Thinking...</string>
+    <string name="assistant_speaking">Speaking...</string>
+    <string name="tagline">Your Voice. Your Security. Your AI.</string>
+</resources>

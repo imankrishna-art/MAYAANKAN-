@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer neon cyan glow ring -->
+    <path
+        android:strokeColor="#3300E5FF"
+        android:strokeWidth="4"
+        android:pathData="M 54,54 m -30,0 a 30,30 0 1,0 60,0 a 30,30 0 1,0 -60,0" />
+
+    <!-- Sharp cyan ring -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.8"
+        android:pathData="M 54,54 m -27,0 a 27,27 0 1,0 54,0 a 27,27 0 1,0 -54,0" />
+
+    <!-- Violet/Pink Orbital arc -->
+    <path
+        android:strokeColor="#E040FB"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M 33,40 A 26,26 0 0,1 75,40" />
+    <path
+        android:strokeColor="#8A2BE2"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M 75,68 A 26,26 0 0,1 33,68" />
+
+    <!-- Inner Core Circle -->
+    <path
+        android:strokeColor="#4000E5FF"
+        android:fillColor="#1A0A26"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,54 m -18,0 a 18,18 0 1,0 36,0 a 18,18 0 1,0 -36,0" />
+
+    <!-- Orbital particle dots -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M 54,23 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#FF007F"
+        android:pathData="M 83,54 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M 54,85 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#8A2BE2"
+        android:pathData="M 25,54 m -2,0 a 2,2 0 1,0 4,0 a 2,2 0 1,0 -4,0" />
+
+    <!-- Futuristic 'M' AI Core Monogram -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 43,62 L 43,46 L 54,55 L 65,46 L 65,62" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF4081"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 46,60 L 46,49 L 54,56 L 62,49 L 62,60" />
+
+    <!-- Glowing center energy spark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,55 m -1.5,0 a 1.5,1.5 0 1,0 3,0 a 1.5,1.5 0 1,0 -3,0" />
+</vector>
